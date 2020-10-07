@@ -1,6 +1,6 @@
 # university-scrapper
 Scrapes the University of Basel market place page. So tired of constantly looking for the price of every WG and just have a page which can search by tags. 
-Who developed this? Honestly who? I can make a better site. 
+THe chromedriver is for windows users can install the proper version for your system here: https://chromedriver.chromium.org/
 
 # Additional features:
 - parse the date
